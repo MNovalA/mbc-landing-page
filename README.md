@@ -5,10 +5,10 @@ Website ini dibuat untuk menampilkan informasi profil, layanan, kontak, dan deve
 --- Struktur Proyek ---
 /mbc-lab/
 │
-|-- index.html # Halaman utama
-|-- contact.php # Backend form kontak (PHP)
-|-- style.css # Styling tampilan
-|-- logo mbc.webp # Logo Laboratorium
+|-- index.html # Halaman utama</p>
+|-- contact.php # Backend form kontak (PHP)</p>
+|-- style.css # Styling tampilan</p>
+|-- logo mbc.webp # Logo Laboratorium</p>
 
 --- Cara Menjalankan (Lokal) ---
 1. Install [XAMPP](https://www.apachefriends.org)
