@@ -19,7 +19,7 @@ Website ini dibuat untuk menampilkan informasi profil, layanan, kontak, dan deve
 
 --- Deployment ---
 Website ini dideploy ke platform **Vercel**  
-🔗 [https://mbc-lab.vercel.app](https://mbc-lab.vercel.app)
+🔗 https://mbc-landing-page-six.vercel.app/
 
 --- Konfigurasi HTTPS (SSL) ---
 - Vercel secara otomatis mengaktifkan HTTPS menggunakan Let's Encrypt
