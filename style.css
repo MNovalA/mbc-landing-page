@@ -102,7 +102,7 @@ footer {
   height: 200px;
   transform: translateY(-60px); 
 }
-/* Responsive Layout */
+
 @media (max-width: 768px) {
   .home-header {
     flex-direction: column;
