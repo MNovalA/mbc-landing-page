@@ -26,7 +26,7 @@ Website ini dideploy ke platform **Vercel**
 - Tidak diperlukan setup manual
 
 --- Backend (PHP) ---
-Form kontak dikendalikan oleh `contact.php` dan bekerja di server lokal (XAMPP).
+- Form kontak dikendalikan oleh `contact.php` dan bekerja di server lokal (XAMPP).
 - Formulir kontak pada halaman kontak menggunakan file `contact.php`
 - Versi awal hanya menampilkan data yang dikirim
 - Dapat dikembangkan dengan `PHPMailer` atau `EmailJS` untuk mengirim email langsung
